@@ -1,0 +1,1 @@
+web: gunicorn belly-button-biodiversity-jak.app:app
